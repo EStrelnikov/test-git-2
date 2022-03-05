@@ -11,3 +11,6 @@
 10. git branch name* - создание новой ветки с названием - name
 11. git checkout develop* - переключение на ветку с названием - develop
 12. git pull [rep_link] [branch_name] - получение ветки - [branch_name] репозитория [rep_link] на наш ПК
+13. git branch -d [branch_name] - удаление ветки с названием - [branch_name]
+<!-- слияние веток --> 
+14. git merge
