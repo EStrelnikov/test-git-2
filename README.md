@@ -13,4 +13,5 @@
 12. git pull [rep_link] [branch_name] - получение ветки - [branch_name] репозитория [rep_link] на наш ПК
 13. git branch -d [branch_name] - удаление ветки с названием - [branch_name]
 <!-- слияние веток --> 
-14. git merge
+    <!-- переключаемся на ветку в которую хотим перенести все изменения с другой ветки с помощью - git checkout  -->
+14. git merge futere/main-page - слияние ветки с веткой(имя ветки) futere/main-page ( изменения локально на нашем ПК) 
